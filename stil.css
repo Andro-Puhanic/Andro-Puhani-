@@ -1,0 +1,50 @@
+p {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    line-height: 16px;
+    width: 700px;
+    background-color: antiquewhite;
+    padding: 20px;
+
+
+}
+.paragraf_2 {
+    color: cadetblue; 
+    background-color: black;
+}
+
+h1, h2 {
+
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+}
+
+span {color:brown}
+
+body { background-image: url(fotografije/preuzmi.jpg) ;}
+
+.drugapozadina { 
+    background-color: bisque;
+}
+.pozadina { 
+    background-color: burlywood;
+}
+a { 
+    color: black;
+    background-color: blanchedalmond;
+    padding: 3px;
+    line-height: 20px;
+    border: 1px; outline: black;
+}
+
+a:hover  { 
+    background-color: rgb(45, 45, 45);
+}
+
+img {
+    height: 200px;
+
+
+}
+
